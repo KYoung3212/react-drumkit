@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/react-drumkit/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-drumkit/static/js/main.41d69df9.chunk.js",
-    "main.js.map": "/react-drumkit/static/js/main.41d69df9.chunk.js.map",
+    "main.css": "/react-drumkit/static/css/main.e2dd7638.chunk.css",
+    "main.js": "/react-drumkit/static/js/main.c646e0c6.chunk.js",
+    "main.js.map": "/react-drumkit/static/js/main.c646e0c6.chunk.js.map",
     "runtime-main.js": "/react-drumkit/static/js/runtime-main.7395ce39.js",
     "runtime-main.js.map": "/react-drumkit/static/js/runtime-main.7395ce39.js.map",
-    "static/js/2.b8006472.chunk.js": "/react-drumkit/static/js/2.b8006472.chunk.js",
-    "static/js/2.b8006472.chunk.js.map": "/react-drumkit/static/js/2.b8006472.chunk.js.map",
+    "static/js/2.254ece4f.chunk.js": "/react-drumkit/static/js/2.254ece4f.chunk.js",
+    "static/js/2.254ece4f.chunk.js.map": "/react-drumkit/static/js/2.254ece4f.chunk.js.map",
     "index.html": "/react-drumkit/index.html",
-    "precache-manifest.6cb8698186cec2eb6e982502bc58c225.js": "/react-drumkit/precache-manifest.6cb8698186cec2eb6e982502bc58c225.js",
+    "precache-manifest.704ed6256a925d9fc8247e36ac18ad3f.js": "/react-drumkit/precache-manifest.704ed6256a925d9fc8247e36ac18ad3f.js",
     "service-worker.js": "/react-drumkit/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-drumkit/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b8006472.chunk.js.LICENSE.txt": "/react-drumkit/static/js/2.b8006472.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-drumkit/static/media/logo.5d5d9eef.svg"
+    "static/css/main.e2dd7638.chunk.css.map": "/react-drumkit/static/css/main.e2dd7638.chunk.css.map",
+    "static/js/2.254ece4f.chunk.js.LICENSE.txt": "/react-drumkit/static/js/2.254ece4f.chunk.js.LICENSE.txt",
+    "static/media/boom.wav": "/react-drumkit/static/media/boom.550be808.wav",
+    "static/media/clap.wav": "/react-drumkit/static/media/clap.a6e86dd7.wav",
+    "static/media/hihat.wav": "/react-drumkit/static/media/hihat.4ba39e07.wav",
+    "static/media/kick.wav": "/react-drumkit/static/media/kick.4dd58595.wav",
+    "static/media/openhat.wav": "/react-drumkit/static/media/openhat.a62db465.wav",
+    "static/media/ride.wav": "/react-drumkit/static/media/ride.b0d70ec5.wav",
+    "static/media/snare.wav": "/react-drumkit/static/media/snare.80c4129b.wav",
+    "static/media/tink.wav": "/react-drumkit/static/media/tink.2a6bb6f5.wav",
+    "static/media/tom.wav": "/react-drumkit/static/media/tom.572ed39d.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.7395ce39.js",
-    "static/js/2.b8006472.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.41d69df9.chunk.js"
+    "static/js/2.254ece4f.chunk.js",
+    "static/css/main.e2dd7638.chunk.css",
+    "static/js/main.c646e0c6.chunk.js"
   ]
 }
