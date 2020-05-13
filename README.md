@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Drum Kit
+The DrumKit built entirly in React JS, is a user-friendly/responsive sound application, which allows users to create their own band with their keyboard, mouse, or touchscreen.
 
-## Available Scripts
+You can test it on my [live demo].
 
-In the project directory, you can run:
+## Screenshots
+<img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/drumkit-1.jpg" width="320">
+<img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/drumkit-2.jpg" width="320">
+<img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/drumkit-0.jpg" width="320">
 
-### `yarn start`
+# React Drum Kit
+### Install at local:
+Open Terminal, then type command:  
+> git clone https://github.com/KYoung3212/drumkit-react.git
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Go to project folder:
+> cd react-drum-kit
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Type following command :  
+> npm install  
 
-### `yarn test`
+Wait until installation process finished and then type :
+> npm start  
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In your browser go to:  
+> http://localhost:8080/  
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+  - A modern/user-friendly mobile/desktop drum kit built using ReactJS.
+  - Responsive design allows for ease of usage from both desktop and mobile access.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Planned Features
+  - Integrate a login feature to be able to create and save personal performances to later listen to or share.
+  - News feed which displays user created performances, which other users can comment, like, and save.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Personal Insight
+> The React Drum Kit is a personal achievement of mine because I've always wanted to be in a band, and was able to create an application that allows anyone to be a one-man-band!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> After fully implementing all features, I made a few changes to make the user experience smoother. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Contributions
+I have always been a person to continutally want to improve any of my projects since there is always room for improvement.  If you would like to contribute please reach out via [email]: kevin.young3212@yahoo.com or you can reach me directly at my [portfolio]. Thanks!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+   [live demo]: <https://kevin-young.us/drum-kit/>
+   [email]: <http://kevin.young3212@gmail.com>
+   [portfolio]: <https://kevin-young.us>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
